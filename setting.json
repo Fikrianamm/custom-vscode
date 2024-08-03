@@ -1,0 +1,94 @@
+{
+    "editor.fontSize": 12,
+    "editor.scrollbar.verticalScrollbarSize": 12,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "window.customTitleBarVisibility": "auto",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "RainbowBrackets.depreciation-notice": false,
+    "workbench.editor.showTabs": "none",
+    "window.commandCenter": false,
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true,
+    "blade.format.enable": true,
+    "eslint.format.enable": true,
+    "terminal.integrated.env.linux": {},
+    "console-ninja.featureSet": "Community",
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.env.windows": {},
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.cursorStyleInactive": "none",
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorBlinking": true,
+    "window.titleBarStyle": "custom",
+    "errorLens.statusBarIconsEnabled": true,
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell",
+        "icon": "terminal-powershell"
+      },
+      "Command Prompt": {
+        "path": [
+          "${env:windir}\\Sysnative\\cmd.exe",
+          "${env:windir}\\System32\\cmd.exe"
+        ],
+        "args": [],
+        "icon": "terminal-cmd"
+      },
+      "Git Bash": {
+        "source": "Git Bash"
+      },
+      "Windows PowerShell": {
+        "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      }
+    },
+    "terminal.integrated.profiles.linux": {
+  
+      "bash": {
+        "path": "bash",
+        "icon": "terminal-bash"
+      },
+      "zsh": {
+        "path": "zsh"
+      },
+      "fish": {
+        "path": "fish"
+      },
+      "tmux": {
+        "path": "tmux",
+        "icon": "terminal-tmux"
+      },
+      "pwsh": {
+        "path": "pwsh",
+        "icon": "terminal-powershell"
+      }
+    },
+    "terminal.integrated.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line-thin",
+    "indentRainbow.indicatorStyle": "light",
+    "color-highlight.markerType": "underline",
+    "editor.guides.bracketPairs": true,
+    "files.eol": "\r\n",
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "workbench.colorTheme": "Dark Decay",
+    "workbench.activityBar.location": "hidden",
+    "breadcrumbs.enabled": false,
+  
+    "vscode_custom_css.imports": [
+          "file:///home/fikri/code/custom-vscode/custom-vscode.css",
+          "file:///home/fikri/code/custom-vscode/vscode-script.js"
+      ],
+      "workbench.iconTheme": "catppuccin-mocha",
+      "workbench.productIconTheme": "macos-modern",
+      "files.autoSave": "afterDelay",
+      "workbench.statusBar.visible": false
+  }
